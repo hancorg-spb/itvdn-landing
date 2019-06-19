@@ -1,0 +1,30 @@
+{
+  "name": "itvdn-landing",
+  "version": "1.0.0",
+  "description": "Hancorg Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hancorg-spb/itvdn-landing.git"
+  },
+  "author": "haNcorg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hancorg-spb/itvdn-landing/issues"
+  },
+  "homepage": "https://github.com/hancorg-spb/itvdn-landing#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.6.0",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp.spritesmith": "^6.10.1",
+    "rimraf": "^2.6.3"
+  }
+}
